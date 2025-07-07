@@ -6,7 +6,7 @@
 
 Repositório contendo a solução para o Exercício-Programa 2 da disciplina **MAC0425/5739 - Inteligência Artificial**, que tem como objetivo prever o estágio da infecção por COVID-19 em pacientes com base em dados reais do Hospital das Clínicas da USP.
 
-## 📌 Visão Geral
+## Visão Geral
 
 Este projeto implementa uma **rede neural** para classificação binária que prediz se um exame de COVID-19 IgG foi detectado (positivo) ou não (negativo), indicando o estágio da infecção. O trabalho inclui:
 
@@ -15,4 +15,4 @@ Este projeto implementa uma **rede neural** para classificação binária que pr
 - **Validação cruzada (k-fold)** para garantir robustez nos resultados
 - **Análise de métricas** como acurácia, precisão, sensibilidade e medida-F
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
