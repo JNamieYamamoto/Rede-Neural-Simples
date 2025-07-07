@@ -4,7 +4,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3+-brightgreen)
 
-Repositório contendo a solução para o Exercício-Programa 2 da disciplina **MAC0425 - Inteligência Artificial** oferecida pelo IME-USP, que tem como objetivo prever o estágio da infecção por COVID-19 em pacientes com base em dados reais do [Hospital das Clínicas da USP] (https://repositoriodatasharingfapesp.uspdigital.usp.br/).
+Repositório contendo a solução para o Exercício-Programa 2 da disciplina **MAC0425 - Inteligência Artificial** oferecida pelo IME-USP, que tem como objetivo prever o estágio da infecção por COVID-19 em pacientes com base em dados reais do Hospital das Clínicas da USP [data-repo].
 
 ## Visão Geral
 
@@ -12,7 +12,7 @@ Este projeto implementa uma **rede neural** para classificação binária que pr
 
 - **Pré-processamento** dos dados brutos em CSV (limpeza, tratamento de valores ausentes e codificação)
 - **Modelo de rede neural** (arquitetura, treinamento e avaliação)
-- **Validação cruzada (k-fold)** para garantir robustez nos resultados
-- **Análise de métricas** como acurácia, precisão, sensibilidade e medida-F
+- **Análise de métricas**
+- **Relatório** com a análise completa do projeto
 
-## Estrutura do Repositório
+[data-repo]: https://repositoriodatasharingfapesp.uspdigital.usp.br/
